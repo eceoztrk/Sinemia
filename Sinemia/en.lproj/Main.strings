@@ -1,0 +1,72 @@
+
+/* Class = "UITextField"; placeholder = "Şifre"; ObjectID = "4cd-t4-CMx"; */
+"4cd-t4-CMx.placeholder" = "Şifre";
+
+/* Class = "UILabel"; text = "Ece"; ObjectID = "5f7-Da-JyL"; */
+"5f7-Da-JyL.text" = "Ece";
+
+/* Class = "UIButton"; normalTitle = "Kayıt olmak istiyorum!"; ObjectID = "6Qx-G8-1UF"; */
+"6Qx-G8-1UF.normalTitle" = "Kayıt olmak istiyorum!";
+
+/* Class = "UILabel"; text = "Profil"; ObjectID = "BcC-fn-Rjz"; */
+"BcC-fn-Rjz.text" = "Profil";
+
+/* Class = "UIButton"; normalTitle = "Kayıt olmak istiyorum!"; ObjectID = "ETV-T0-ih5"; */
+"ETV-T0-ih5.normalTitle" = "Kayıt olmak istiyorum!";
+
+/* Class = "UITextField"; placeholder = "İsim"; ObjectID = "FO8-xE-vCj"; */
+"FO8-xE-vCj.placeholder" = "İsim";
+
+/* Class = "UIButton"; normalTitle = "Kayıt Ol"; ObjectID = "I65-jA-a8k"; */
+"I65-jA-a8k.normalTitle" = "Kayıt Ol";
+
+/* Class = "UILabel"; text = "Ayarlar"; ObjectID = "PxB-xT-mUW"; */
+"PxB-xT-mUW.text" = "Ayarlar";
+
+/* Class = "UITextField"; placeholder = "Kullancı Adnız"; ObjectID = "RFo-qv-7Kw"; */
+"RFo-qv-7Kw.placeholder" = "Kullancı Adnız";
+
+/* Class = "UILabel"; text = "Çıkış Yap"; ObjectID = "Ua6-EW-Jem"; */
+"Ua6-EW-Jem.text" = "Çıkış Yap";
+
+/* Class = "UIButton"; normalTitle = "Değiştir"; ObjectID = "XJj-bm-DZH"; */
+"XJj-bm-DZH.normalTitle" = "Değiştir";
+
+/* Class = "UITextField"; placeholder = "E-posta"; ObjectID = "dTu-JB-WlW"; */
+"dTu-JB-WlW.placeholder" = "E-posta";
+
+/* Class = "UILabel"; text = "Hesap & Ayarlar"; ObjectID = "dXl-Gq-ocZ"; */
+"dXl-Gq-ocZ.text" = "Hesap & Ayarlar";
+
+/* Class = "UIButton"; normalTitle = "Şifremi unuttum"; ObjectID = "eaH-WW-2KO"; */
+"eaH-WW-2KO.normalTitle" = "Şifremi unuttum";
+
+/* Class = "UILabel"; text = "Sinemia Card"; ObjectID = "fiK-VM-ICc"; */
+"fiK-VM-ICc.text" = "Sinemia Card";
+
+/* Class = "UITextField"; placeholder = "Adınız"; ObjectID = "gVw-cN-cG7"; */
+"gVw-cN-cG7.placeholder" = "Adınız";
+
+/* Class = "UIButton"; normalTitle = "Sinemalar"; ObjectID = "h5w-Bv-BNG"; */
+"h5w-Bv-BNG.normalTitle" = "Sinemalar";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "l1V-7N-oHP"; */
+"l1V-7N-oHP.text" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Giriş Yap"; ObjectID = "nMj-mE-Q2Z"; */
+"nMj-mE-Q2Z.normalTitle" = "Giriş Yap";
+
+/* Class = "UITextField"; placeholder = "Şifreniz"; ObjectID = "ncb-5m-h50"; */
+"ncb-5m-h50.placeholder" = "Şifreniz";
+
+/* Class = "UIButton"; normalTitle = "Filmler"; ObjectID = "r7K-ZF-9qJ"; */
+"r7K-ZF-9qJ.normalTitle" = "Filmler";
+
+/* Class = "UIButton"; normalTitle = "Hepsini göster"; ObjectID = "uOV-W9-jMC"; */
+"uOV-W9-jMC.normalTitle" = "Hepsini göster";
+
+/* Class = "UITextField"; placeholder = "Soyadınız"; ObjectID = "ydh-7v-8dE"; */
+"ydh-7v-8dE.placeholder" = "Soyadınız";
+
+/* Class = "UIButton"; normalTitle = "Giriş Yap"; ObjectID = "z1L-Ok-ljR"; */
+"z1L-Ok-ljR.normalTitle" = "Giriş Yap";

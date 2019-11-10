@@ -8,20 +8,56 @@
 
 /* Begin PBXBuildFile section */
 		5459B08B21ED257B006DDB68 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5459B08A21ED257B006DDB68 /* AppDelegate.swift */; };
-		5459B08D21ED257B006DDB68 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5459B08C21ED257B006DDB68 /* ViewController.swift */; };
-		5459B09021ED257B006DDB68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5459B08E21ED257B006DDB68 /* Main.storyboard */; };
+		5459B08D21ED257B006DDB68 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5459B08C21ED257B006DDB68 /* LoginController.swift */; };
 		5459B09221ED257C006DDB68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5459B09121ED257C006DDB68 /* Assets.xcassets */; };
 		5459B09521ED257C006DDB68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5459B09321ED257C006DDB68 /* LaunchScreen.storyboard */; };
+		54970FB421FFB4ED00DA41DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54970FB321FFB4ED00DA41DA /* Main.storyboard */; };
+		54972A8521FE5CD500999DE0 /* KampanyaCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54972A8421FE5CD500999DE0 /* KampanyaCollectionViewCell.swift */; };
+		5497BEE521FD14B0009ABF95 /* DatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5497BEE421FD14B0009ABF95 /* DatePicker.swift */; };
+		549A68AF2204A5960060606E /* PaketViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549A68AE2204A5960060606E /* PaketViewController.swift */; };
+		549A68B12204A8100060606E /* PaketCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549A68B02204A8100060606E /* PaketCollectionViewCell.swift */; };
+		549B3AB421F90F7E00D87721 /* UserInformaiton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549B3AB321F90F7E00D87721 /* UserInformaiton.swift */; };
+		549B3AB621F9154200D87721 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549B3AB521F9154200D87721 /* ProfileViewController.swift */; };
+		54A2EF412200EACB0068E228 /* FilmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A2EF402200EACB0068E228 /* FilmViewController.swift */; };
+		54A858D921F880B600621788 /* QrCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A858D821F880B600621788 /* QrCodeViewController.swift */; };
+		54A8C61021F7982000CEBF5A /* SideMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A8C60F21F7982000CEBF5A /* SideMenuViewController.swift */; };
+		54A8C61221F79D2B00CEBF5A /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A8C61121F79D2B00CEBF5A /* MainViewController.swift */; };
+		54B6FE6321F65216005C925B /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B6FE6221F65216005C925B /* ThirdViewController.swift */; };
+		54C3AE2821F3430F00D36851 /* SignUpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C3AE2721F3430F00D36851 /* SignUpController.swift */; };
+		54D7E12622035B590028D154 /* SinemalarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D7E12522035B590028D154 /* SinemalarViewController.swift */; };
+		54E329ED21FC6A1800EA2F38 /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54E329EC21FC6A1800EA2F38 /* ImageCollectionViewCell.swift */; };
+		54ED658722046BF90065B608 /* Paketler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54ED658622046BF90065B608 /* Paketler.swift */; };
+		54EF6D8A21F4884E00FED27A /* DBUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54EF6D8921F4884E00FED27A /* DBUtil.swift */; };
+		F396AFA2ADD42C64EBB18350 /* Pods_Sinemia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 244EA8DD4AB391E8FC8B56C8 /* Pods_Sinemia.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		244EA8DD4AB391E8FC8B56C8 /* Pods_Sinemia.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Sinemia.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4489221205877BDE7673F895 /* Pods-Sinemia.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sinemia.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Sinemia/Pods-Sinemia.debug.xcconfig"; sourceTree = "<group>"; };
 		5459B08721ED257B006DDB68 /* Sinemia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sinemia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5459B08A21ED257B006DDB68 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5459B08C21ED257B006DDB68 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5459B08F21ED257B006DDB68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5459B08C21ED257B006DDB68 /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
 		5459B09121ED257C006DDB68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5459B09421ED257C006DDB68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5459B09621ED257C006DDB68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54970FB321FFB4ED00DA41DA /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = SOURCE_ROOT; };
+		54972A8421FE5CD500999DE0 /* KampanyaCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KampanyaCollectionViewCell.swift; sourceTree = "<group>"; };
+		5497BEE421FD14B0009ABF95 /* DatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker.swift; sourceTree = "<group>"; };
+		549A68AE2204A5960060606E /* PaketViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaketViewController.swift; sourceTree = "<group>"; };
+		549A68B02204A8100060606E /* PaketCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaketCollectionViewCell.swift; sourceTree = "<group>"; };
+		549B3AB321F90F7E00D87721 /* UserInformaiton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInformaiton.swift; sourceTree = "<group>"; };
+		549B3AB521F9154200D87721 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		54A2EF402200EACB0068E228 /* FilmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmViewController.swift; sourceTree = "<group>"; };
+		54A858D821F880B600621788 /* QrCodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QrCodeViewController.swift; sourceTree = "<group>"; };
+		54A8C60F21F7982000CEBF5A /* SideMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuViewController.swift; sourceTree = "<group>"; };
+		54A8C61121F79D2B00CEBF5A /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		54B6FE6221F65216005C925B /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		54C3AE2721F3430F00D36851 /* SignUpController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpController.swift; sourceTree = "<group>"; };
+		54D7E12522035B590028D154 /* SinemalarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SinemalarViewController.swift; sourceTree = "<group>"; };
+		54E329EC21FC6A1800EA2F38 /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
+		54ED658622046BF90065B608 /* Paketler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paketler.swift; sourceTree = "<group>"; };
+		54EF6D8921F4884E00FED27A /* DBUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBUtil.swift; sourceTree = "<group>"; };
+		6647B089805EE2F1BAEB572C /* Pods-Sinemia.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sinemia.release.xcconfig"; path = "Pods/Target Support Files/Pods-Sinemia/Pods-Sinemia.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +65,30 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F396AFA2ADD42C64EBB18350 /* Pods_Sinemia.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		52B0A5A67590752357F4B5D6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4489221205877BDE7673F895 /* Pods-Sinemia.debug.xcconfig */,
+				6647B089805EE2F1BAEB572C /* Pods-Sinemia.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		5459B07E21ED257B006DDB68 = {
 			isa = PBXGroup;
 			children = (
+				54EF6D8821F4882B00FED27A /* Model */,
 				5459B08921ED257B006DDB68 /* Sinemia */,
 				5459B08821ED257B006DDB68 /* Products */,
+				52B0A5A67590752357F4B5D6 /* Pods */,
+				F915DE4990BB1745E63D28DB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +104,44 @@
 			isa = PBXGroup;
 			children = (
 				5459B08A21ED257B006DDB68 /* AppDelegate.swift */,
-				5459B08C21ED257B006DDB68 /* ViewController.swift */,
-				5459B08E21ED257B006DDB68 /* Main.storyboard */,
+				5459B08C21ED257B006DDB68 /* LoginController.swift */,
 				5459B09121ED257C006DDB68 /* Assets.xcassets */,
 				5459B09321ED257C006DDB68 /* LaunchScreen.storyboard */,
+				54970FB321FFB4ED00DA41DA /* Main.storyboard */,
 				5459B09621ED257C006DDB68 /* Info.plist */,
+				54C3AE2721F3430F00D36851 /* SignUpController.swift */,
+				54B6FE6221F65216005C925B /* ThirdViewController.swift */,
+				54A8C60F21F7982000CEBF5A /* SideMenuViewController.swift */,
+				54A8C61121F79D2B00CEBF5A /* MainViewController.swift */,
+				54A858D821F880B600621788 /* QrCodeViewController.swift */,
+				549B3AB521F9154200D87721 /* ProfileViewController.swift */,
+				54E329EC21FC6A1800EA2F38 /* ImageCollectionViewCell.swift */,
+				54972A8421FE5CD500999DE0 /* KampanyaCollectionViewCell.swift */,
+				54A2EF402200EACB0068E228 /* FilmViewController.swift */,
+				54D7E12522035B590028D154 /* SinemalarViewController.swift */,
+				549A68AE2204A5960060606E /* PaketViewController.swift */,
+				549A68B02204A8100060606E /* PaketCollectionViewCell.swift */,
 			);
 			path = Sinemia;
+			sourceTree = "<group>";
+		};
+		54EF6D8821F4882B00FED27A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				54EF6D8921F4884E00FED27A /* DBUtil.swift */,
+				549B3AB321F90F7E00D87721 /* UserInformaiton.swift */,
+				5497BEE421FD14B0009ABF95 /* DatePicker.swift */,
+				54ED658622046BF90065B608 /* Paketler.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F915DE4990BB1745E63D28DB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				244EA8DD4AB391E8FC8B56C8 /* Pods_Sinemia.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +151,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5459B09921ED257C006DDB68 /* Build configuration list for PBXNativeTarget "Sinemia" */;
 			buildPhases = (
+				334F1B6A7F771681F2B35301 /* [CP] Check Pods Manifest.lock */,
 				5459B08321ED257B006DDB68 /* Sources */,
 				5459B08421ED257B006DDB68 /* Frameworks */,
 				5459B08521ED257B006DDB68 /* Resources */,
+				67906663770900F97C30339C /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -122,35 +204,94 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54970FB421FFB4ED00DA41DA /* Main.storyboard in Resources */,
 				5459B09521ED257C006DDB68 /* LaunchScreen.storyboard in Resources */,
 				5459B09221ED257C006DDB68 /* Assets.xcassets in Resources */,
-				5459B09021ED257B006DDB68 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		334F1B6A7F771681F2B35301 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Sinemia-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		67906663770900F97C30339C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Sinemia/Pods-Sinemia-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/ButtonAppearance/ButtonAppearance.framework",
+				"${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework",
+				"${BUILT_PRODUCTS_DIR}/TextFieldEffects/TextFieldEffects.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ButtonAppearance.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SQLite.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TextFieldEffects.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Sinemia/Pods-Sinemia-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		5459B08321ED257B006DDB68 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5459B08D21ED257B006DDB68 /* ViewController.swift in Sources */,
+				54A8C61221F79D2B00CEBF5A /* MainViewController.swift in Sources */,
+				54ED658722046BF90065B608 /* Paketler.swift in Sources */,
+				54D7E12622035B590028D154 /* SinemalarViewController.swift in Sources */,
+				54C3AE2821F3430F00D36851 /* SignUpController.swift in Sources */,
+				549B3AB621F9154200D87721 /* ProfileViewController.swift in Sources */,
+				54972A8521FE5CD500999DE0 /* KampanyaCollectionViewCell.swift in Sources */,
+				54A858D921F880B600621788 /* QrCodeViewController.swift in Sources */,
+				549A68AF2204A5960060606E /* PaketViewController.swift in Sources */,
+				5459B08D21ED257B006DDB68 /* LoginController.swift in Sources */,
+				54B6FE6321F65216005C925B /* ThirdViewController.swift in Sources */,
+				54E329ED21FC6A1800EA2F38 /* ImageCollectionViewCell.swift in Sources */,
 				5459B08B21ED257B006DDB68 /* AppDelegate.swift in Sources */,
+				549A68B12204A8100060606E /* PaketCollectionViewCell.swift in Sources */,
+				549B3AB421F90F7E00D87721 /* UserInformaiton.swift in Sources */,
+				54A2EF412200EACB0068E228 /* FilmViewController.swift in Sources */,
+				54A8C61021F7982000CEBF5A /* SideMenuViewController.swift in Sources */,
+				54EF6D8A21F4884E00FED27A /* DBUtil.swift in Sources */,
+				5497BEE521FD14B0009ABF95 /* DatePicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		5459B08E21ED257B006DDB68 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5459B08F21ED257B006DDB68 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		5459B09321ED257C006DDB68 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -280,9 +421,12 @@
 		};
 		5459B09A21ED257C006DDB68 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4489221205877BDE7673F895 /* Pods-Sinemia.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Sinemia/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -290,6 +434,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ece.Sinemia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -297,9 +442,12 @@
 		};
 		5459B09B21ED257C006DDB68 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6647B089805EE2F1BAEB572C /* Pods-Sinemia.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Sinemia/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -307,6 +455,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ece.Sinemia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
